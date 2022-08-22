@@ -24,12 +24,12 @@ pip install requests
 This repo contains a buySide and a sellSide. The buy side monitors for new coins being created, scans the contract code to determine if it reaches the purchase criteria and finally buys. The sell side monitors the price change from when a coin was originally bought and determines if it has made enough profit to be sold.
 
 ```py
-// Beging the buySide program
+// Starting the buySide program
 python3 buySide.py
 ```
 
 ```py
-// Beging the sellSide program
+// Starting the sellSide program
 python3 sellSide.py
 ```
 
