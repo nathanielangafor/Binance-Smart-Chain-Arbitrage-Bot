@@ -37,6 +37,7 @@ I also included the concept code for the project written in JS because it is sli
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+<br/>
 Please make sure to update tests as appropriate.
 
 ## License
